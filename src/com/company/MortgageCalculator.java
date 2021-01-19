@@ -35,6 +35,6 @@ public class MortgageCalculator {
     }
 
     public byte getYears() {
-        return this.years
+        return this.years;
     }
 }
